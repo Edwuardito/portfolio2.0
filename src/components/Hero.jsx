@@ -71,6 +71,7 @@ const Hero = () => {
                 </div>
                 <div className='absolute -top-[54%] left-1/2 w-[234%] -translate-x-1/2 md:-top-[46%] md:w-[138%] lg:-top-[104%]'>
                     <img
+                        className='w-full'
                         src={heroBackground}
                         alt="hero"
                         width={1440}
